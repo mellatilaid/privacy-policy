@@ -1,10 +1,10 @@
 Introduction :
-Laid's Notes App ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and share information about you when you use our Notes app.
+NoteFolio is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and share information about you when you use our Notes app.
 
 Data Collection :
 Our Notes app collects the following types of information:
 
-Personal Information: We may collect personal information such as your email address if you create an account or contact us for support.
+Personal Information: We will not collect personal information such as your email address if you create an account or contact us for support.
 Usage Data: We collect data on how you use the app, such as the types of notes you create (text, voice, image), folders, tasks, and reminders.
 Data Usage
 We use the collected data for the following purposes:
